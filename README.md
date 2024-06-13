@@ -15,4 +15,6 @@
    |PVC Plošča 2x|
 
    3.Komentar
-   
+   Pri izdelavi je bilo kar nekaj težav večina je nastajal problem pri meritvi. Do odstopanj prihaja zaradi različnih razlogov(ko nekdo hodi mimo nastane senca, LUX meter je bolj občutljiv kot pa naš ARDUINO LUX meter).
+   Ker pa je LUX meter bolj občutljiv na vsako spremembo in reagira s spremembo hitrih vendar malih številk. V našem ARDUINO LUX metru pa ni tako natančen fotoresistor zato prihaja do hitrih in velikih sprememb 
+   vrednosti(Številk). S spreminjanje vrednosti kalibracije s pomočjo LUX metra sva približno na iste vrednosti na obeh LUX merilnih napravah.
